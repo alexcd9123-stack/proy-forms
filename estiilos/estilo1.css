@@ -1,0 +1,49 @@
+body{
+    background-image: url(../imagenes/images.jpg);
+}
+head{
+    background-color: azure;
+    padding: 5px;
+
+}
+footer{
+    background-color: azure;
+    padding: 5px;
+    
+}
+nav{
+    background-color: yellow;
+    padding: 5px;text-align: left;
+
+}
+img{
+    width: 50px;
+
+}
+.contenido{
+    background-color: violet;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+}
+section{
+    background-color: lightpink;
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    height: 200px;
+
+}
+*{
+    text-align: center;
+    margin: 10px;
+
+}    
+input{
+    background-color: aqua;
+    width: 50%;
+    height: 30%;
+}
+label{
+    background-color: palevioletred
+}
